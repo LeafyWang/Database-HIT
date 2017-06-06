@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1308671941 source:d:\工作\教学任务\数据库系统原理\上机实验\extmem\main.c
+	<stdlib.h>
+	<stdio.h>
+
+1308709169 source:d:\工作\教学任务\数据库系统原理\上机实验\extmem\extmem.c
+	<stdlib.h>
+	<stdio.h>
+	"extmem.h"
+
+1308709046 d:\工作\教学任务\数据库系统原理\上机实验\extmem\extmem.h
+
+1308709196 source:d:\工作\教学任务\数据库系统原理\上机实验\extmem\test.c
+	<stdlib.h>
+	<stdio.h>
+	"extmem.h"
+
+1308709196 source:d:\second\数据库系统\extmem\test.c
+	<stdlib.h>
+	<stdio.h>
+	"extmem.h"
+
+1308709046 d:\second\数据库系统\extmem\extmem.h
+
+1308709170 source:d:\second\数据库系统\extmem\extmem.c
+	<stdlib.h>
+	<stdio.h>
+	"extmem.h"
+
+1462883290 source:d:\实验四\extmem-c\extmem.c
+	<stdlib.h>
+	<stdio.h>
+	"extmem.h"
+
+1308709046 d:\实验四\extmem-c\extmem.h
+
+1495339810 source:d:\实验四\extmem-c\test.cpp
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<string.h>
+	<set>
+	"extmem.h"
+
